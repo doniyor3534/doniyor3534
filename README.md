@@ -1,12 +1,13 @@
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 <h1>Salom Mening Ismim Doniyorbek</h1>
 
-- 🌱 I’m currently learning **DevOps** 
-- 💬 Ask me about **Android , MEARN**
+- 🌱 Men **Front-end** dasturchiman 
+- 💬 texnalogiyalar **HTML , CSS,SASS,BOOTSTRAP,JAVASWCRIPT,RECT.JS,REDUX,GITHUB,MUI,ANTD**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **doniyorbektursunov800@gmail.com**
 
 - ⚡ Fun fact **Front-end**
-- 🚒🚜🚜🚜🚜
+- ☜(ﾟヮﾟ☜)(☞ﾟヮﾟ)☞
+- ✔✔✔✔✔✔✔✔✔✔✔👀👀👀👀
 
-<h1>Salom Mening Ismim Doniyorbek</h1>
+
