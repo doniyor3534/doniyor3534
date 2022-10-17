@@ -1,6 +1,5 @@
 
-**doniyor3534/doniyor3534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-=======
+
 -  <h1>🔭 Salom Mening Ismim Doniyorbek</h1>
   
 - 🌱 Men **Front-end** dasturchiman 
