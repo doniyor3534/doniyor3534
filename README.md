@@ -73,7 +73,7 @@
 </div>
         <p align="center"> 
   👀👀👀👀👀👀<br>
-  <a href="https://ra1nbow.xyz?ref=github">
+  <a href="https://doniyor3534?ref=github">
     <img src="https://profile-counter.glitch.me/doniyor3534/count.svg" />
   </a>
 </p>
