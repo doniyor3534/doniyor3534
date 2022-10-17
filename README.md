@@ -77,4 +77,4 @@
     <img src="https://profile-counter.glitch.me/doniyor3534/count.svg" />
   </a>
 </p>
-<a href="https://ibb.co/d0qVqwn"><img style="width:'100%'" src="https://i.ibb.co/TBS7Sxz/photo-2022-03-17-09-28-37.jpg" alt="photo-2022-03-17-09-28-37" border="0"></a>
+<a  href="https://ibb.co/d0qVqwn"><img style="width:100%" src="https://i.ibb.co/TBS7Sxz/photo-2022-03-17-09-28-37.jpg" alt="photo-2022-03-17-09-28-37" border="0"></a>
