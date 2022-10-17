@@ -91,3 +91,4 @@
 </p>
   <img alt="" width="100%" src="https://github.com/doniyor3534/metrics/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
         <img width="900" height="1" alt="">
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00" ></img>
