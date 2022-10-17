@@ -91,4 +91,4 @@
 </p>
   <img alt="" width="100%" src="https://github.com/doniyor3534/metrics/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
         <img width="900" height="1" alt="">
-<img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=doniyor3534&fontAlign=50&stroke=00bbff&fontSize=40&fontColor=443f46&animation= twinkling 4s)" ></img>
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=doniyor3534&fontAlign=50&stroke=00bbff&fontSize=40&fontColor=443f46
