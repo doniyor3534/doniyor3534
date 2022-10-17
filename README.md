@@ -1,7 +1,7 @@
 
 
 -  <h1>🔭 Salom Mening Ismim Doniyorbek
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    ______<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </h1>
   
 - 🌱 Men **Front-end** dasturchiman 
