@@ -1,6 +1,6 @@
 
 -  <h1>🔭 Salom Mening Ismim Doniyorbek</h1>
-
+  
 - 🌱 Men **Front-end** dasturchiman 
 - 💬 texnalogiyalar 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
