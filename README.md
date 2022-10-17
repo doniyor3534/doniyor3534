@@ -7,7 +7,7 @@
     ** <br/>
   </h1>
   
-<p align="left" background="grey" > <a href="https://www.github.com/doniyor3534" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/doniyor35341" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left" backgroundColor="grey" > <a href="https://www.github.com/doniyor3534" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/doniyor35341" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
   
 - 🌱 Men **Front-end** dasturchiman 
 - 💬 texnalogiyalar 
