@@ -1,6 +1,8 @@
 
 
--  <h1>🔭 Salom Mening Ismim Doniyorbek</h1>
+-  <h1>🔭 Salom Mening Ismim Doniyorbek
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </h1>
   
 - 🌱 Men **Front-end** dasturchiman 
 - 💬 texnalogiyalar 
@@ -61,6 +63,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doniyor3534&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniyor3534&theme=noctis_minimus&layout=compact" />
 </a>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
