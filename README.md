@@ -2,11 +2,11 @@
 
 -  <h1>🔭 Salom Mening Ismim Doniyorbek
     ______<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
-    
+    **
     
     <a  href="https://ibb.co/d0qVqwn"><img width="50%" border-radius=" 1px solid green" src="https://i.ibb.co/TBS7Sxz/photo-2022-03-17-09-28-37.jpg" alt="photo-2022-03-17-09-28-37" border="0"></a>
     
-    
+    **
   </h1>
   
 - 🌱 Men **Front-end** dasturchiman 
