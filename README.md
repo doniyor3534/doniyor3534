@@ -1,6 +1,6 @@
 
 
--  <h1>🔭 Salom Mening Ismim Doniyorbek
+-  <h1>🔭[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
     ______<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>  <br/>
     ** <br/>
     <a  href="https://ibb.co/d0qVqwn"><img width="50%" border-radius=" 1px solid green" src="https://i.ibb.co/TBS7Sxz/photo-2022-03-17-09-28-37.jpg" alt="photo-2022-03-17-09-28-37" border="0"></a> <br/>
