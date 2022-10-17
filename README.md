@@ -61,9 +61,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doniyor3534&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniyor3534&theme=noctis_minimus&layout=compact" />
 </a>
-<p align="center"> 
-  Visitor count<br>
-  <a href="https://doniyor3534?ref=github">
-    <img src="https://profile-counter.glitch.me/doniyor3534/count.svg" />
-  </a>
-</p>
+
