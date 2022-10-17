@@ -79,4 +79,5 @@
     <img src="https://profile-counter.glitch.me/doniyor3534/count.svg" />
   </a>
 </p>
-    <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+  <img alt="" width="100%" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
+        <img width="900" height="1" alt="">
