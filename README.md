@@ -61,7 +61,7 @@
 </a>
 <p align="center"> 
   Visitor count<br>
-  <a href="https://ra1nbow.xyz?ref=github">
-    <img src="https://profile-counter.glitch.me/ra1nbow1/count.svg" />
+  <a href="https://doniyor3534?ref=github">
+    <img src="https://profile-counter.glitch.me/doniyor3534/count.svg" />
   </a>
 </p>
