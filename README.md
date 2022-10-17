@@ -81,5 +81,5 @@
     <img src="https://profile-counter.glitch.me/doniyor3534/count.svg" />
   </a>
 </p>
-  <img alt="" width="100%" src="https://github.com/doniyor3534/doniyor3534/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
+  <img alt="" width="100%" src="https://github.com/doniyor3534/metrics/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
         <img width="900" height="1" alt="">
