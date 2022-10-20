@@ -70,11 +70,15 @@
 ---
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/doniyor3534">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doniyor3534&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniyor3534&theme=noctis_minimus&layout=compact" />
-  
-</a>
+
+ ![default][default]   ![transparent][transparent] 
+
+
+
+
+[default]: https://github-readme-stats.vercel.app/api?username=doniyor3534&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
+[transparent]: https://github-readme-stats.vercel.app/api?username=doniyor3534&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 <div id="badges">
     <a href="https://www.linkedin.com/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
