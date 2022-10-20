@@ -72,12 +72,13 @@
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
  ![default][default]   ![transparent][transparent] 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniyor3534&theme=tokyonight)
 
 
 
 [default]: https://github-readme-stats.vercel.app/api?username=doniyor3534&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
 [transparent]: https://github-readme-stats.vercel.app/api?username=doniyor3534&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
+
 <div id="badges">
     <a href="https://www.linkedin.com/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
