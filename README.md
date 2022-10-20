@@ -72,7 +72,6 @@
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
  ![default][default]   ![transparent][transparent] 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniyor3534&theme=tokyonight)
 
 
 
