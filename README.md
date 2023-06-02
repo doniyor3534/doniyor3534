@@ -1,5 +1,5 @@
 
-your_name - [@twitter_handle]([https://twitter.com/twitter_handle](https://doniyor3534.netlify.app/)) - meni qilgan ishalarim
+your_name - [@twitter_handle](https://doniyor3534.netlify.app/) - meni qilgan ishalarim
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 -  <h1>🔭<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=38C2FF&width=702&height=70&lines=Salom+mening+ismim+Doniyorbek" alt="Typing SVG" /></a>
     <a href="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" ><a/>
